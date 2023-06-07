@@ -17,7 +17,7 @@ public class Problem2 {
             cal.setTime(date);
             cal.add(Calendar.DATE, 100);
             Date resultDate = cal.getTime();
-            
+             
             String resultStr = sdf.format(resultDate);
             System.out.println(resultStr);
         } catch (Exception e) {
