@@ -41,13 +41,13 @@
 - ディレクトリ: network_communication
 
 1. データベースアクセス
-2. 
+
 - ディレクトリ: database_access
 
 1. 単体テスト(JUnit)
-2. 
+
 - ディレクトリ: unit_testing
 
 1. スレッドによる並列処理
-2. 
+
 - ディレクトリ: thread_concurrency
