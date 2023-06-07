@@ -1,5 +1,7 @@
 # java-study-notes
 
+ChatGPTが問題を作成。
+
 1. 文字列の操作
 
 - ディレクトリ: string_operations
